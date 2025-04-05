@@ -1,6 +1,6 @@
 # MRI Brain Tumor Segmentation using UNet with KAN Networks
 
-This project implements a **UNet model** for MRI brain tumor segmentation using **KAN (Kernel Activation Networks)**. The goal is to accurately segment tumor regions in MRI scans to assist in medical diagnosis and research.
+This project implements a **UNet model** for MRI brain tumor segmentation using **KAN (Kolmogorov-Arnold Networks)**. The goal is to accurately segment tumor regions in MRI scans to assist in medical diagnosis and research.
 
 ---
 
