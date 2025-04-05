@@ -6,7 +6,7 @@ This project implements a **UNet model** for MRI brain tumor segmentation using 
 
 ## Features
 - **UNet Architecture**: A popular encoder-decoder architecture for image segmentation.
-- **KAN Layers**: Replacing standard convolutions with Kernel Activation Networks for improved expressiveness.
+- **KAN Layers**: Replacing standard convolutions with Kolmogorov-Arnold Networks for improved performance and less parameters.
 - **Binary Segmentation**: Segmenting tumor vs. non-tumor regions.
 - **Visualization Tools**: Output segmentation masks and overlays for intuitive analysis.
 
